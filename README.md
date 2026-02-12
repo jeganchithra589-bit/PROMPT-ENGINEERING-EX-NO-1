@@ -89,7 +89,6 @@ Step 7: Finalize and Export
 ## Development Plan: Generative AI and Large Language Models:
 Step 1: Define Scope and Objectives
    1.1  Goal of the Report
-
       The goal of this report is to provide a comprehensive overview of Generative AI and Large Language Models (LLMs), explaining their concepts, architecture, training process, applications, limitations, and future trends. The report may serve educational, research, or technological awareness purposes.
 
    1.2 Target Audience:
